@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="../Stylesheets/Styles-for-Home-Page.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="contentBody">
+            <MadCap:bodyProxy />
+            <div class="footer center">
+                <div class="HomeMasterPageFooter outer-row">
+                    <div><a href="../Images/San-Diego-Logo-Transparent.png"><img src="../Images/San-Diego-Logo-Transparent.png" alt="" title="" /></a>
+                    </div>
+                    <div>
+                        <p class="Copyright">Copyright © <MadCap:variable name="General.Year" /> <MadCap:variable name="General.CompanyName" /></p>
+                    </div>
+                    <div class="footer-icons"><a href="https://twitter.com/#!/MadCapDocTeam" target="_blank"><img src="../Images/Twitter-Icon.png" alttext="" /></a><a href="http://www.facebook.com/madcapdocteam" target="_blank"><img src="../Images/Facebook-Icon.png" alttext="" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
